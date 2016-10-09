@@ -1,1 +1,1 @@
-# ssh-test-repo
+# Test project for mastering github ssh connection approach
